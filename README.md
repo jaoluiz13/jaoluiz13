@@ -1,5 +1,5 @@
 ### Hi there 😬
-- I'm currently student of control and automation engineering, and i'm studing web development.
+- I'm currently student of software engineering, and i'm studing web development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-luiz-costa-dos-santos-a6a815165/ 'My linkedin')
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jxvxluiz@gmail.com 'My email')
