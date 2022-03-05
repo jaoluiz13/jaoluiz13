@@ -15,7 +15,7 @@
   ## Currently studying!
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogramadriano.medium.com%2Fentendendo-o-node-js-973c9cdaf71f&psig=AOvVaw1TAqDw7dJxfy2Z972RIfM0&ust=1646590275858000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiZzffIr_YCFQAAAAAdAAAAABAD">
+  <img align="center" alt="Js" height="30" width="40" src="https://miro.medium.com/max/1200/0*kjOwhsnRP6o9upOd.png">
  
   
 </div>
