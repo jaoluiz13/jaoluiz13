@@ -15,7 +15,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://miro.medium.com/max/1200/0*kjOwhsnRP6o9upOd.png">
-  <img align="center" alt="spring" height="50" width="100" scr="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw"> 
+ <i class="devicon-spring-plain-wordmark"></i>
 </div>
   
  
